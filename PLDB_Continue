@@ -1,0 +1,47 @@
+Microphone init failed.
+DeSmuME 0.9.11 svn0 dev+ x64-JIT
+SoftRast Initialized with cores=4
+
+ROM game code: YLTE
+ROM serial: NTR-YLTE-USA
+ROM chipID: 00007FC2
+ROM internal name: LAYTON2
+ROM developer: Nintendo
+
+Slot1 auto-selected device type: Retail MC+ROM
+Slot2 auto-selected device type: None (0xFF)
+BackupDevice: WARNING! Failed to get read/write access to the save file! Will operate in RAM instead.
+CPU mode: Interpreter
+Already decrypted.
+MMU9 write32 to undefined register 04000058h = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 0400005Ch = 00000000h (PC:01FF857C)
+Changing master brightness outside of vblank
+MMU9 write32 to undefined register 04001004h = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 04001058h = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 0400105Ch = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 04001060h = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 04001064h = 00000000h (PC:01FF857C)
+MMU9 write32 to undefined register 04001068h = 00000000h (PC:01FF857C)
+Changing master brightness outside of vblank
+Autodetecting with autodetect_size=3
+Changing master brightness outside of vblank
+Changing master brightness outside of vblank
+Changing master brightness outside of vblank
+Changing master brightness outside of vblank
+Slot1 auto-selected device type: Retail MC+ROM
+Slot2 auto-selected device type: None (0xFF)
+BackupDevice: WARNING! Failed to get read/write access to the save file! Will operate in RAM instead.
+CPU mode: Interpreter
+Already decrypted.
+Slot 2: None
+Savestate info:
+	DeSmuME version: 0.9.11 svn 0
+	Save created: 2017-APR-06 Thu 19:27:04
+	Game title: LAYTON2
+	Game code: YLTE
+	Maker code: 01 (0x3130) - Nintendo
+	Device capacity: 128Mb (real size 128Mb)
+	CRC16: AEB7h
+	Header CRC16: 5024h
+	Slot1: Retail MC+ROM
+	Slot2: None
