@@ -1,0 +1,4 @@
+echo  libglew-dev libsdl2-dev libgtk-3-dev libarchive-dev libao-dev cmake python-wxgtk2.8
+Keys
+wget -q -O- http://archive.getdeb.net/getdeb-archive.key | sudo apt-key add -
+aria -o master.zip https://github.com/lordamit/Brightness/archive/master.zip

@@ -1,0 +1,7 @@
+#!/bin/bash
+FILE_TYPE=$(file -b $2|awk '{ print $1}')
+if [ "$FILE_TYPE" = "bzip2" ]; then
+tar "$1j" "$2"
+elif [ "$FILE_TYPE" = "gzip" ]; then
+tar "$1z" "$2"
+fi
